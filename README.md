@@ -84,7 +84,7 @@ Dependencies
  ✅ Calculate Total by Category
 
 
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/a162b3b28ba97b5ba7463ffdd449c3fd980b48ee/Calculate_expense_by_Category.png)
 
 
  ✅ Delete Expense
