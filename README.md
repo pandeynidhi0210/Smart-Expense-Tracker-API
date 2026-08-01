@@ -66,7 +66,7 @@ Dependencies
 ✅ Get Expenses By ID
  
  
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/66358510980b069218c67802c0d219c4b05d73ce/View_expenses_by_ID.png)
 
 
  ✅ Filter by Category
