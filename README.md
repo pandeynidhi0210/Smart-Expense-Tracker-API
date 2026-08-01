@@ -60,5 +60,38 @@ Dependencies
  ✅ Get All Expenses
 
 
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/0fc576bf241952ee0879447b858e9da11a3500ab/View_all_expenses.png)
                     
+
+✅ Get Expenses By ID
+ 
+ 
+ ![image alt]()
+
+
+ ✅ Filter by Category
+
+
+ ![image alt]()
+
+
+ ✅ Calculate Total Expenses
+
+
+ ![image alt]()
+
+
+ ✅ Calculate Total by Category
+
+
+ ![image alt]()
+
+
+ ✅ Delete Expense
+
+
+ ![image alt]()
+
+
+ 
+ 
