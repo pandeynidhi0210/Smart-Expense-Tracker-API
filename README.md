@@ -72,7 +72,7 @@ Dependencies
  ✅ Filter by Category
 
 
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/9088f8de43a1ba7540e795289dcbb714a2b89caa/Filter_expenses_by_Category.png)
 
 
  ✅ Calculate Total Expenses
