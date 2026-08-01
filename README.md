@@ -7,12 +7,10 @@ Step 1
 Create Spring Boot Project
 
 Dependencies
-
-Purpose	          Correct Dependency
-Validation	      spring-boot-starter-validation ✅
-Web (REST API)	  spring-boot-starter-web ✅ (not spring-boot-starter-webmvc)
-DevTools	        spring-boot-devtools ✅
-Testing  	        spring-boot-starter-test ✅ (not spring-boot-starter-validation-test or spring-boot-starter-webmvc-test)
+1)Validation     ->spring-boot-starter-validation ✅
+2)Web (REST API) ->spring-boot-starter-web ✅ (not spring-boot-starter-webmvc)
+3)DevTools	  ->   spring-boot-devtools ✅
+4)Testing  	  ->   spring-boot-starter-test ✅ (not spring-boot-starter-validation-test or spring-boot-starter-webmvc-test)
 
 
 
