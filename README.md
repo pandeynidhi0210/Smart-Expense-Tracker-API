@@ -78,7 +78,7 @@ Dependencies
  ✅ Calculate Total Expenses
 
 
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/f4ace88aa06bcbf93f8fef310e73308849e8473f/Calculate_total_expense.png)
 
 
  ✅ Calculate Total by Category
