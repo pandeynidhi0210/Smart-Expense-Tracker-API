@@ -90,7 +90,7 @@ Dependencies
  ✅ Delete Expense
 
 
- ![image alt]()
+ ![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/314c7e78012356dbe714527077c93eb1c998e7fc/Delete_an_expense.png)
 
 
  
