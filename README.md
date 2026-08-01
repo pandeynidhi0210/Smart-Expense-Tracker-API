@@ -46,7 +46,8 @@ Dependencies
                (In-Memory Data Storage)
                           |
                           v
-
+       Expense.java
+        (id, title, amount, category, date)
 
 
 ✅ Add Expense
@@ -56,6 +57,8 @@ Dependencies
 
 
 
-                          
-                    Expense.java
-        (id, title, amount, category, date)
+ ✅ Get All Expenses
+
+
+ ![image alt]()
+                    
