@@ -52,7 +52,7 @@ Dependencies
 ✅ Add Expense
 
 
-
+![image alt](https://github.com/pandeynidhi0210/Smart-Expense-Tracker-API/blob/6c8e19473e91a6945cd1f6ac1436906eb89f633d/Add_an_expense.png)
 
 
 
