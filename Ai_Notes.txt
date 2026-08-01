@@ -1,0 +1,79 @@
+# AI Usage Notes
+
+## AI Tools Used
+
+- ChatGPT
+
+---
+
+## How I Used AI
+
+I used ChatGPT mainly as a learning and guidance tool while building the project.
+
+AI helped me with:
+
+- Understanding the overall project requirements
+- Planning the project structure
+- Designing the REST API endpoints
+- Understanding Spring Boot annotations
+- Suggestions for exception handling and validation
+- Guidance on writing the README and project documentation
+
+---
+
+## What I Implemented and Verified Myself
+
+I implemented the project in IntelliJ IDEA and verified that the application compiled and ran correctly.
+
+I personally:
+
+- Created the Spring Boot project
+- Organized the package structure
+- Implemented the controller and service logic
+- Added validation to the model
+- Configured Swagger
+- Tested every endpoint using Postman
+- Fixed compilation and package errors
+- Wrote and ran the unit tests
+- Verified the API responses matched the assignment requirements
+
+---
+
+## Changes I Made to AI Suggestions
+
+While using AI suggestions, I made several changes during implementation:
+
+- Updated package names to match my project structure
+- Corrected import statements and compilation issues
+- Adjusted endpoint mappings
+- Improved validation and exception handling
+- Modified the code where necessary after testing
+
+---
+
+## AI Suggestions I Did Not Use
+
+I decided not to use some AI suggestions because they were outside the scope of the assignment.
+
+Examples include:
+
+- Database integration (the assignment required in-memory storage)
+- React frontend (the assignment only required a REST API)
+- User authentication and authorization
+- Update expense functionality
+
+Keeping the project focused on the assignment requirements made it simpler and easier to review.
+
+---
+
+## Testing
+
+After implementing the project, I tested the APIs using Postman and verified that:
+
+- Expenses can be added successfully
+- All expenses are returned correctly
+- Filtering by category works
+- Total expense calculation is correct
+- Category-wise total calculation is correct
+- Expenses can be deleted
+- Validation and exception handling return appropriate responses
